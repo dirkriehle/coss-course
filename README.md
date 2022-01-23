@@ -6,4 +6,4 @@ Overview is at https://profriehle.com/open-courses/commercial-open-source-startu
 
 YouTube playlist is at https://youtube.com/playlist?list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh
 
-The slides are here at https://github.com/dirkriehle/coss-course
+The slides are here at https://github.com/dirkriehle/coss-course/
