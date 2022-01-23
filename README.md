@@ -1,4 +1,9 @@
 # Commercial Open Source Startups
 
-This course teaches students how the software industry works with a particular focus on commercial open source startups. Students learn to design a business model for a commercial open source firm, how to get an open source project off the ground, and how to spin-off a startup from a university.
+Students learn how the software industry works, how commercial open source works, and how to create startups from research.
 
+Overview is at https://profriehle.com/open-courses/commercial-open-source-startups/
+
+YouTube play list is at https://youtube.com/playlist?list=PLQ2ODVSeOYlX_ssU08e-9x_ggESeBsyhh
+
+The slides are here at https://github.com/dirkriehle/coss-course
