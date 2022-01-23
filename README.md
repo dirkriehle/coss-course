@@ -1,4 +1,4 @@
-# Commercial Open Source Startups
+# Commercial Open Source Startups [COSS]
 
 Students learn how the software industry works, how commercial open source works, and how to create startups from research.
 
